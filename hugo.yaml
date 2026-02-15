@@ -1,0 +1,44 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: bubudetp
+theme: PaperMod
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  disableThemeToggle: true
+  profileMode:
+    enabled: true
+    title: "I'm [@bubudetp](https://github.com/bubudetp)"
+    subtitle: "Software engineer, gamer, neophile."
+    imageUrl: "https://anansi-solutions.net/images/team/burak_hu_4722929a6644005c.webp"
+    imageWidth: 240 
+    imageHeight: 240
+
+  socialIcons:
+    - name: "GitHub"
+      url: "https://github.com/bubudetp"
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/burak-m-kose/"
+
+menu:
+  main:
+    - identifier: articles
+      name: articles
+      url: /articles/
+      weight: 10
+    - identifier: fragments
+      name: fragments
+      url: /fragments/
+      weight: 20
+    - identifier: about
+      name: about
+      url: /about/
+      weight: 1
+    - identifier: projects
+      name: projects
+      url: /projects/
+      weight: 5
+
