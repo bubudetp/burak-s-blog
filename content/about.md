@@ -16,7 +16,7 @@ Having written software profressionally for many years now, I'm convinced that w
 
 I live in Zurich. Before that I lived in London for over 3 years. I'm from Saint-Louis, France's best city.
 
-My favorite movie is [The Godfather II](https://www.imdb.com/title/tt0071562/). My favorite game is [Resident Evil 2](https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Resident_Evil_2_Remake.jpg/250px-Resident_Evil_2_Remake.jpg).
+My favorite movie is [The Godfather II](https://www.imdb.com/title/tt0071562/). My favorite game is [Resident Evil 2 Remastered](https://www.youtube.com/watch?v=Ry4sQCFOt4s).
 
 #### Technology
 
