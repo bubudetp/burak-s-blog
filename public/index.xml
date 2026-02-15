@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>bubudetp</title>
-    <link>https://bubudetp.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on bubudetp</description>
     <generator>Hugo -- 0.155.3</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://bubudetp.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://bubudetp.org/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://bubudetp.org/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;h4 id=&#34;about-me&#34;&gt;About me&lt;/h4&gt;
 &lt;p&gt;I&amp;rsquo;m a software engineer at &lt;a href=&#34;https://anansi-solutions.net/&#34;&gt;Anansi Solutions&lt;/a&gt;, where I spend a lot of time working on different projects at the same time. I joined Anansi Solutions in September 2025, a couple months after graduating from QMUL.&lt;/p&gt;
 &lt;p&gt;I spent 3 years as a computer science student at QMUL, where I learned about core CS principles with some &lt;strong&gt;practical&lt;/strong&gt; experience. Studying in London was enriching, its diversity and energy shaped how I approach problems collaboratively and think globally.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Some words for the beginning</title>
-      <link>https://bubudetp.org/fragments/posts/feb26/1/</link>
+      <link>http://localhost:1313/fragments/posts/feb26/1/</link>
       <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://bubudetp.org/fragments/posts/feb26/1/</guid>
+      <guid>http://localhost:1313/fragments/posts/feb26/1/</guid>
       <description>Some words.</description>
     </item>
   </channel>

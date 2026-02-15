@@ -41,4 +41,8 @@ menu:
       name: projects
       url: /projects/
       weight: 5
+    - identifier: resources
+      name: resources
+      url: /resources/
+      weight: 9
 
