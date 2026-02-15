@@ -1,6 +1,6 @@
 ---
 title: Resources
-description: Sharing things I consider are worth reading
+description: Sharing things I consider are worth reading.
 ---
 
 ### Software Engineering
