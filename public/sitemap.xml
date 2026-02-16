@@ -2,26 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://bubudetp.org/</loc>
+    <lastmod>2026-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bubudetp.org/fragments/</loc>
+    <lastmod>2026-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bubudetp.org/fragments/posts/feb26/2/</loc>
+    <lastmod>2026-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bubudetp.org/about/</loc>
     <lastmod>2026-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/fragments/</loc>
+    <loc>https://bubudetp.org/fragments/posts/feb26/1/</loc>
     <lastmod>2026-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2026-02-15T00:00:00+00:00</lastmod>
+    <loc>https://bubudetp.org/articles/</loc>
   </url><url>
-    <loc>http://localhost:1313/fragments/posts/feb26/1/</loc>
-    <lastmod>2026-02-15T00:00:00+00:00</lastmod>
+    <loc>https://bubudetp.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/articles/</loc>
+    <loc>https://bubudetp.org/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://bubudetp.org/resources/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
-  </url><url>
-    <loc>http://localhost:1313/resources/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://bubudetp.org/tags/</loc>
   </url>
 </urlset>
